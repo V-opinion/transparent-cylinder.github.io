@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://transparent-cylinder.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-91ea563e-dd0a-48f8-8e2a-3a7c077784bc" class="screen growth-vertical devWeb canvas PORTRAIT firer scroll ie-background commentable non-processed" alignment="left" name="Delivery"width="1366" height="1760">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://transparent-cylinder.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/style-1737475659602.css" />\
       <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/fonts-1737475659602.css" />\
       <div class="freeLayout">\
       <div id="s-Button_1" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Pay now button"   datasizewidth="627.13px" datasizeheight="56.00px" dataX="65.00" dataY="1563.00" >\
@@ -375,7 +375,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                 <div id="s-Image_6" class="image lockH firer ie-background commentable non-processed" customid="American Express logo"   datasizewidth="58.95px" datasizeheight="16.00px" dataX="146.63" dataY="20.46" aspectRatio="3.6842105"   alt="image">\
                                   <div class="borderLayer">\
                                   	<div class="imageViewport">\
-                                  		<img src="./images/1579d60e-3fa9-4b06-930d-d8c47b91c9bf.png" />\
+                                  		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/1579d60e-3fa9-4b06-930d-d8c47b91c9bf.png" />\
                                   	</div>\
                                   </div>\
                                 </div>\
@@ -383,7 +383,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                 <div id="s-Image_7" class="image lockH firer ie-background commentable non-processed" customid="Master Card logo"   datasizewidth="67.59px" datasizeheight="24.00px" dataX="205.58" dataY="16.46" aspectRatio="2.8160715"   alt="image">\
                                   <div class="borderLayer">\
                                   	<div class="imageViewport">\
-                                  		<img src="./images/8e9e00fb-dda9-4569-b283-bb430551758a.png" />\
+                                  		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/8e9e00fb-dda9-4569-b283-bb430551758a.png" />\
                                   	</div>\
                                   </div>\
                                 </div>\
@@ -391,7 +391,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                 <div id="s-Image_8" class="image lockH firer ie-background commentable non-processed" customid="Visa logo"   datasizewidth="44.84px" datasizeheight="14.53px" dataX="273.16" dataY="21.20" aspectRatio="3.0859375"   alt="image">\
                                   <div class="borderLayer">\
                                   	<div class="imageViewport">\
-                                  		<img src="./images/4760c457-3150-4351-ad05-38d2038ff131.png" />\
+                                  		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/4760c457-3150-4351-ad05-38d2038ff131.png" />\
                                   	</div>\
                                   </div>\
                                 </div>\
@@ -858,7 +858,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                               <div id="s-Image_9" class="image lockV firer ie-background commentable non-processed" customid="Image icon"   datasizewidth="46.05px" datasizeheight="38.99px" dataX="43.57" dataY="68.43" aspectRatio="0.84657043"   alt="image">\
                                 <div class="borderLayer">\
                                 	<div class="imageViewport">\
-                                		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+                                		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
                                 	</div>\
                                 </div>\
                               </div>\
@@ -1125,7 +1125,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                               <div id="s-Image_10" class="image lockV firer ie-background commentable non-processed" customid="Image icon"   datasizewidth="46.05px" datasizeheight="38.99px" dataX="43.57" dataY="73.23" aspectRatio="0.84657043"   alt="image">\
                                 <div class="borderLayer">\
                                 	<div class="imageViewport">\
-                                		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+                                		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
                                 	</div>\
                                 </div>\
                               </div>\
@@ -1392,7 +1392,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                               <div id="s-Image_11" class="image lockV firer ie-background commentable non-processed" customid="Image icon"   datasizewidth="46.05px" datasizeheight="38.99px" dataX="43.57" dataY="73.23" aspectRatio="0.84657043"   alt="image">\
                                 <div class="borderLayer">\
                                 	<div class="imageViewport">\
-                                		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+                                		<img src="https://transparent-cylinder.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
                                 	</div>\
                                 </div>\
                               </div>\
