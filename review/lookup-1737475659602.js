@@ -2,7 +2,7 @@
   var dictionary = {
     "91ea563e-dd0a-48f8-8e2a-3a7c077784bc": "Delivery",
     "e77254c4-c30d-4641-8238-1e907617ad32": "Featured products",
-    "15a8ec25-1d2d-4c5b-87e3-4742ba95b079": "Confirmation",
+    "15a8ec25-1d2d-4c5b-87e3-4742ba95b079": "Uppfinning",
     "ebf023a8-0f4b-460e-8af2-b43bd067ecc1": "Product page",
     "c7296b0b-9f88-42c9-be3c-368dbccff289": "Products",
     "d12245cc-1680-458d-89dd-4f0d7fb22724": "Home",
