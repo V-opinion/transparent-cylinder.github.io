@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Montserrat_26.0.0_google";
+  src: url("https://transparent-cylinder.multireligionvalsystem.eu.org/fonts/Montserrat-Semibold_26.0.0_google.ttf");
+  font-weight: 600; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat_26.0.0_google";
+  src: url("https://transparent-cylinder.multireligionvalsystem.eu.org/fonts/Montserrat-Regular_26.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
