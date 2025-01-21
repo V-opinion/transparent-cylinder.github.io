@@ -41,7 +41,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -63,7 +63,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -85,7 +85,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -107,7 +107,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -155,7 +155,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -177,7 +177,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -199,7 +199,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -221,7 +221,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/ebf023a8-0f4b-460e-8af2-b43bd067ecc1"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -243,7 +243,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -265,7 +265,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -287,7 +287,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -309,7 +309,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -331,7 +331,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -353,7 +353,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -375,7 +375,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -397,7 +397,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -419,7 +419,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -441,7 +441,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -463,7 +463,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -485,7 +485,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -507,7 +507,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -529,7 +529,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -551,7 +551,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -573,7 +573,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -595,7 +595,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -617,7 +617,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -639,7 +639,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -661,7 +661,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -683,7 +683,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -705,7 +705,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -727,7 +727,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -749,7 +749,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -771,7 +771,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -793,7 +793,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -815,7 +815,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -837,7 +837,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -859,7 +859,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -881,7 +881,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -903,7 +903,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -925,7 +925,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -947,7 +947,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -969,7 +969,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -991,7 +991,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1013,7 +1013,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1035,7 +1035,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1057,7 +1057,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1079,7 +1079,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1101,7 +1101,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1123,7 +1123,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/e77254c4-c30d-4641-8238-1e907617ad32"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/e77254c4-c30d-4641-8238-1e907617ad32"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1145,7 +1145,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/c7296b0b-9f88-42c9-be3c-368dbccff289"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1167,7 +1167,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724"
+                    "target": "https://transparent-cylinder.multireligionvalsystem.eu.org/screens/d12245cc-1680-458d-89dd-4f0d7fb22724"
                   },
                   "exectype": "serial",
                   "delay": 0
