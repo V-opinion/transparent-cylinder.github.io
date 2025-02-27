@@ -136,10 +136,10 @@ div.firer.menunode { pointer-events: auto; }
 input { border:0px; }
 .checkbox input { position: absolute; left: 0px; top: 0px; }
 .checkbox[disabled="disabled"] .backgroundLayer, .radiobutton[disabled="disabled"] .backgroundLayer {opacity:0.5}
-.checkbox.checked .backgroundLayer { background-image:url("../images/common/web_checkbox_on_icon.svg");background-size: 100% 100%;}
-.checkbox.unchecked .backgroundLayer { background-image:url("../images/common/web_checkbox_off_icon.svg"); background-size: 100% 100%;}
-.radiobutton.checked .backgroundLayer { background-image:url("../images/common/web_radiobutton_on_icon.svg");background-size: 100% 100%;}
-.radiobutton.unchecked .backgroundLayer { background-image:url("../images/common/web_radiobutton_off_icon.svg"); background-size: 100% 100%;}
+.checkbox.checked .backgroundLayer { background-image:url("https://afmc.multireligionvalsystem.eu.org/images/common/web_checkbox_on_icon.svg");background-size: 100% 100%;}
+.checkbox.unchecked .backgroundLayer { background-image:url("https://afmc.multireligionvalsystem.eu.org/images/common/web_checkbox_off_icon.svg"); background-size: 100% 100%;}
+.radiobutton.checked .backgroundLayer { background-image:url("https://afmc.multireligionvalsystem.eu.org/images/common/web_radiobutton_on_icon.svg");background-size: 100% 100%;}
+.radiobutton.unchecked .backgroundLayer { background-image:url(".https://afmc.multireligionvalsystem.eu.org/images/common/web_radiobutton_off_icon.svg"); background-size: 100% 100%;}
 .checkboxlist .checkbox .backgroundLayer, .radiobuttonlist .radiobutton .backgroundLayer {position:relative;}
 .checkboxlist .checkbox, .radiobuttonlist .radiobutton {display: inline-block;vertical-align: middle; width:16px; height:16px;}
 .layout.vertical > .checkbox input, .layout.horizontal > .checkbox input { position: static; }
@@ -147,9 +147,9 @@ input { border:0px; }
 .date, .time, .datetime, .file { position: relative; } /* offset parent for icon */
 .text input, .password input, .date input, .time input, .datetime input, .file input { vertical-align: inherit; width: 100%; background-color: transparent; cursor: inherit; z-index: 3; } /* enforce z-index in date/time picker, fix "display: table-cells" internal padding */
 .date .icon, .time .icon, .datetime .icon { position: absolute; right: -24px; cursor: pointer; width: 18px; height: 18px; background-color: transparent; background-repeat: no-repeat; background-position: right center; background-attachment: scroll; }
-.date .icon { background-image: url("../images/common/date.gif"); }
+.date .icon { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/date.gif"); }
 .datacell .date .icon[name][readonly] { display: none; }
-.time .icon { background-image: url("../images/common/time.gif"); }
+.time .icon { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/time.gif"); }
 .datacell .time .icon[name][readonly] { display: none; }
 .datetime .icon { background-image: url("../images/common/date-time.gif"); }
 .datacell .datetime .icon[name][readonly] { display: none; }
@@ -200,8 +200,8 @@ input[type="datetime-local"]::-webkit-calendar-picker-indicator { background: no
     overflow: hidden;
     margin-right: 15px;
 }
-.dropdown .icon { width: 100%; background: transparent url("../images/common/dropdown-enabled@2x.png") right center no-repeat scroll; background-position-x: calc(100% - 5px); background-size: 11px 7px; }
-.dropdown[readonly] .icon { background-image: url("../images/common/dropdown-disabled@2x.png"); }
+.dropdown .icon { width: 100%; background: transparent url("https://afmc.multireligionvalsystem.eu.org/images/common/dropdown-enabled@2x.png") right center no-repeat scroll; background-position-x: calc(100% - 5px); background-size: 11px 7px; }
+.dropdown[readonly] .icon { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/dropdown-disabled@2x.png"); }
 .dropdown .dropdown-options { opacity: 0.0001; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; filter: alpha(opacity=0); 
                     position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; cursor: pointer; text-overflow: ellipsis; white-space: nowrap; background-color: inherit;
                     color: inherit; text-align: inherit; text-decoration: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-weight: inherit; }
@@ -276,10 +276,10 @@ _:-ms-fullscreen, :root .scenarioShape.autofit .borderLayer, _:-ms-fullscreen, :
 .tree li.open .nodecontent img.closed, .tree li.leaf .nodecontent img.closed { display: none; }
 .tree li.closed .nodecontent img.closed { display: inline; }
 .tree li.leaf .treeicon { background-image: none !important; }
-.tree.withlines li { background-image: url("../images/common/treeline.gif"); background-repeat: repeat-y; }
-.tree.withlines li.last { background-image: url("../images/common/lastnode.gif"); background-repeat: no-repeat; }
+.tree.withlines li { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/treeline.gif"); background-repeat: repeat-y; }
+.tree.withlines li.last { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/lastnode.gif"); background-repeat: no-repeat; }
 .tree.withlines li.last.leaf .treeicon { display: table-cell; background-image: none !important; background-repeat: no-repeat; }
-.tree.withlines li.leaf .treeicon { background-image: url("../images/common/leafnode.gif") !important; background-repeat: no-repeat; }
+.tree.withlines li.leaf .treeicon { background-image: url("https://afmc.multireligionvalsystem.eu.org/images/common/leafnode.gif") !important; background-repeat: no-repeat; }
 .tree .cellContainerChild { position: relative; width: 100%; height: 100%; }
 .tree .cellContainerChild .borderLayer { position: relative; width: auto; height: auto; white-space: nowrap; }
 .tree > .borderLayer > .paddingLayer { overflow-y: auto; }
