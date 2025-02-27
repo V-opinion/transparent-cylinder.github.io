@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,14 +12,14 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-e77254c4-c30d-4641-8238-1e907617ad32" class="screen growth-vertical devWeb canvas PORTRAIT firer scroll ie-background commentable non-processed" alignment="left" name="Featured products"width="1366" height="2819">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/screens/e77254c4-c30d-4641-8238-1e907617ad32/style-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/screens/e77254c4-c30d-4641-8238-1e907617ad32/fonts-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/5d848f0c-dea2-4da9-9412-fc52d638af36/style-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/5d848f0c-dea2-4da9-9412-fc52d638af36/fonts-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/ad86307c-873f-4ba1-83b3-5f59295b87c3/style-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/ad86307c-873f-4ba1-83b3-5f59295b87c3/fonts-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/d27246f8-858f-4e4f-bbc9-d24df5b904e2/style-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/masters/d27246f8-858f-4e4f-bbc9-d24df5b904e2/fonts-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/e77254c4-c30d-4641-8238-1e907617ad32/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/e77254c4-c30d-4641-8238-1e907617ad32/fonts-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/5d848f0c-dea2-4da9-9412-fc52d638af36/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/5d848f0c-dea2-4da9-9412-fc52d638af36/fonts-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/ad86307c-873f-4ba1-83b3-5f59295b87c3/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/ad86307c-873f-4ba1-83b3-5f59295b87c3/fonts-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/d27246f8-858f-4e4f-bbc9-d24df5b904e2/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/d27246f8-858f-4e4f-bbc9-d24df5b904e2/fonts-1737475659602.css" />\
       <div class="freeLayout">\
       <div id="s-Master_item_3" class="mi-9f9b775e m-d27246f8-858f-4e4f-bbc9-d24df5b904e2 masterinstance firer ie-background commentable non-processed" master="m-d27246f8-858f-4e4f-bbc9-d24df5b904e2" customid="Footer" datasizewidth="1366.00px" datasizeheight="377.00px" dataX="-0.00" dataY="2442.00" dataAngle="0.0" >\
         <div class="masterInstanceRelativeSizeWrapper">	\
