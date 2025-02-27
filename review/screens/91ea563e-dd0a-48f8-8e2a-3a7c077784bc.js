@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="https://transparent-cylinder.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737475659602.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-91ea563e-dd0a-48f8-8e2a-3a7c077784bc" class="screen growth-vertical devWeb canvas PORTRAIT firer scroll ie-background commentable non-processed" alignment="left" name="Delivery"width="1366" height="1760">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="https://transparent-cylinder.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/style-1737475659602.css" />\
-      <link type="text/css" rel="stylesheet" href="transparent-cylinder.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/fonts-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/style-1737475659602.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/91ea563e-dd0a-48f8-8e2a-3a7c077784bc/fonts-1737475659602.css" />\
       <div class="freeLayout">\
       <div id="s-Button_1" class="button multiline manualfit firer mouseenter mouseleave commentable non-processed" customid="Pay now button"   datasizewidth="627.13px" datasizeheight="56.00px" dataX="65.00" dataY="1563.00" >\
         <div class="backgroundLayer">\
