@@ -37,7 +37,7 @@ body.scenario #web-clip-left, body.scenario #web-clip-right { display: none; }
 #scenarioWrapper > div.transitionWrapper {display: block; pointer-events: none; z-index: 0;}
 #scenarioWrapper .scenarioEdge {position: absolute;}
 #scenarioWrapper .scenarioEdgeLine {position: absolute; height: 2.0px; background-color: #21C0C0;}
-#scenarioWrapper div.transitionWrapper .transitionLinkIcon {display: none; position: absolute; width: 15px; height: 15px; background: url("../../../resources/jim/images/scenarios/linked_scenario@2x.png") no-repeat center; background-size: 15px 15px;}
+#scenarioWrapper div.transitionWrapper .transitionLinkIcon {display: none; position: absolute; width: 15px; height: 15px; background: url("https://afmc.multireligionvalsystem.eu.org//resources/jim/images/scenarios/linked_scenario@2x.png") no-repeat center; background-size: 15px 15px;}
 #scenarioWrapper div.transitionWrapper.linked .transitionLinkIcon {display: block;}
 
 /* Thumbnail */
