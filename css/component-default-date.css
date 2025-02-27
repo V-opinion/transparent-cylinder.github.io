@@ -312,8 +312,8 @@ body.web .ui-datepicker .jp-ui-floating-timepicker #jp-ui-scroll-timepicker > di
 	transform: translate(-3px, -22px);
 }
 
-body.web .ui-datepicker #ti_controls { height:33px; width:100%; background-image: url('../../../../../images/mobile/ios/ios11/iphonex/portrait/date_topbar@2x.png'); background-repeat: repeat-x; }
-body.web .ui-datepicker .ti_mask { width: 375px; height: 217px; background-image: url('../../../../../images/mobile/ios/ios11/iphonex/portrait/dategradient@2x.png'); background-size: 100% 100%; overflow:hidden; position:absolute; top:33px; pointer-events:none; background-repeat:repeat-x; }
+body.web .ui-datepicker #ti_controls { height:33px; width:100%; background-image: url('https://afmc.multireligionvalsystem.eu.org/images/mobile/ios/ios11/iphonex/portrait/date_topbar@2x.png'); background-repeat: repeat-x; }
+body.web .ui-datepicker .ti_mask { width: 375px; height: 217px; background-image: url('https://afmc.multireligionvalsystem.eu.org/images/mobile/ios/ios11/iphonex/portrait/dategradient@2x.png'); background-size: 100% 100%; overflow:hidden; position:absolute; top:33px; pointer-events:none; background-repeat:repeat-x; }
 body.web .ui-datepicker #ti_options { margin-left: 0px; margin-top:0px; vertical-align:top; overflow:hidden; height: 28px; transform: translateY(40px);}
 body.web .ui-datepicker #ti_options .ti_options { width: 355px; height: 217px; }
 body.web .ui-datepicker #ti_options_big { display: none; }
